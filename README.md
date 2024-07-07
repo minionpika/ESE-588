@@ -5,8 +5,8 @@ Part 1 - Bayesian linear regression(A. Sequential Bayesian learning, B. Gaussian
 Part 2 - Classification  
 Part 3 - Classification of real data
 
-ESE_588_24_ProjectDescription.pdf - The detailed description of the project  
+ESE_588_24_ProjectDescription.pdf - The detailed description of this project  
 CTG.xls/cardiotocography.zip - The dataset for Part 3  
 Output folder - Includes all the output tables and figures from ml_project.ipynb  
-ESE588_115613595.pdf - Contains the report of the project
+ESE588_115613595.pdf - Contains the report of this project  
 ml_project.ipynb - All the running codes for this project
